@@ -7,7 +7,7 @@ Practical exercises developed during the Orion bootcamp.
 - [Exercise 1: Dockerfile and Compose.](docker/exercicio-1/README.md)
 - [Exercise 2: API and database integration.](docker/exercicio-2/README.md)
 - [Exercise 3: Development and production environments.](docker/exercicio-3/README.md)
-- Extra challenge: API, database, and administration interface.
+- [Extra challenge: API, database, and administration interface.](docker/exercicio-extra/README.md)
 
 ## Contribution workflow
 
