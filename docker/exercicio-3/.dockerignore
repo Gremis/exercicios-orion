@@ -1,0 +1,8 @@
+**/node_modules
+**/.git
+**/.git*
+**/*.log
+**/logs
+**/coverage
+**/.env
+**/.env.*

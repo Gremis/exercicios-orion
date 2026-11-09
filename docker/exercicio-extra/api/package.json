@@ -1,0 +1,17 @@
+{
+  "name": "docker-exercise-extra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An Express notes API backed by PostgreSQL.",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
